@@ -38,7 +38,8 @@ The repository is organized topic-wise based on my learning:
 * Searching Algorithms
 * Binary Tree
 * Algorithm
-
+* Heap
+  
 Each folder contains implementations and problem solutions related to that topic.
 
 ---
